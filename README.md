@@ -43,8 +43,8 @@ Note: The datasets and sources analyzed are derived from surveys and expert asse
 
 ## Example of use: 
 
-X_encoded, y, df_sig, df_aug, df_dist = preparar_datos('your_data.csv', num_merges)
-df_plot = bootstrap_rf_ct(X_encoded, y, 'Organizational_uncertainty', 'organizational')
+`X_encoded, y, df_sig, df_aug, df_dist = preparar_datos('input_data.csv', num_merges)`
+`df_plot = bootstrap_rf_ct(X_encoded, y, 'Organizational_uncertainty', 'organizational')`
 
 ## Outputs:
 - Feature importance plots with error bars and frequency color scales.
