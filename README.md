@@ -45,7 +45,7 @@ Data is available only by requesting it to the author of the code.
 Note: The datasets and sources analyzed are derived from surveys and expert assessments related to the Colombian construction sector. The results and decision trees are intended for exploratory insight rather than production deployment.
 
 ## Results
-![Most Frequent Decision Rules for Project Uncertainty in Southwestern Colombia](main/Captura%20de%20pantalla%202025-12-06%20a%20la(s)%204.53.15%E2%80%AFp.m..png)
+![Most Frequent Decision Rules for Project Uncertainty in Southwestern Colombia](https://github.com/cdtm15/uncertainty_sources_in_construction_colombia/blob/main/Captura%20de%20pantalla%202025-12-06%20a%20la(s)%204.53.15%E2%80%AFp.m..png)
 
 This figure shows the most recurrent decision paths (from 1,000 bootstrap runs) that explain when construction projects shift into higher uncertainty across five domains: logistics, environmental, sociopolitical, market, and technological.
 These trees highlight simple, interpretable “if–then” rules based on variables that project managers already track (e.g., months in service, number of activities, worker social discontent, supply-chain attributes).
